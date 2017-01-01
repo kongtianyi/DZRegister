@@ -16,7 +16,7 @@ sudo pip install selenium
 
 ### geckodriver安装
 
-新版Firefox不内置，若不安装selenium调用Firefox会出问题。
+新版Firefox不内置，若不安装，selenium调用Firefox会出问题。
 
 >>
 >>下载 geckodriverckod 地址： mozilla/geckodriver
